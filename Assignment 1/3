@@ -1,0 +1,31 @@
+program:
+begin
+	count: integer
+	count2 : integer	
+	count <= 0
+	count2 <= 5	
+
+	while count <= 50 do
+	count <= count +1
+	if count2 = 5 
+		then 
+		exit
+		end
+
+	end
+
+	while count <= 50 do
+	count <= count +1
+
+	exit when count2 = 5
+
+	end
+
+	loop
+		count <= count + 1
+	exit when count = 50 
+
+	end
+
+
+end

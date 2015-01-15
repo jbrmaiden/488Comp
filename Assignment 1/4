@@ -1,0 +1,18 @@
+program:
+begin
+
+boolean function Helloworld
+	begin
+	put "Hello World!"
+	return (true)
+	end
+
+integer function sum (integer num1, integer num2)
+	begin
+	return (num1 + num2)
+	end
+
+
+
+
+end

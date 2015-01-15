@@ -1,0 +1,12 @@
+program: 
+begin 
+
+array1[5]: integer
+array2[-4 .. 5]: integer
+array3[5,5]: integer
+array4[-1..2,-3..5]: integer
+
+
+
+
+end
